@@ -51,7 +51,8 @@ namespace POS.Persistance.Repository
 
         public Task<Guid> Update(Item item)
         {
-            throw new NotImplementedException();
+            _context.Items.Update(item);
+            return Task.FromResult(item.Id);
         }
     }
 }

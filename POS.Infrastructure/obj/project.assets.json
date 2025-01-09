@@ -4988,11 +4988,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sys.admin\\source\\repos\\POS.API\\POS.Infrastructure\\POS.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Infrastructure\\POS.Infrastructure.csproj",
       "projectName": "POS.Infrastructure",
-      "projectPath": "C:\\Users\\sys.admin\\source\\repos\\POS.API\\POS.Infrastructure\\POS.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Infrastructure\\POS.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\sys.admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sys.admin\\source\\repos\\POS.API\\POS.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

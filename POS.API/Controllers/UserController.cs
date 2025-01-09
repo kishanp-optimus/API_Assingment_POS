@@ -16,7 +16,7 @@ namespace POS.API.Controllers
         public UserController(IMediator mediator) {
             _mediator = mediator;
         }
-        [HttpPost("/CreateUser/{user}")]
+        [HttpPost("/CreateUser/")]
         public IActionResult CreateUser(UserDTO user)
         {
             var res = _mediator.Send(new CreateUserCommand(user));

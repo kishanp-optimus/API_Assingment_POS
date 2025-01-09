@@ -9,8 +9,8 @@ namespace POS.Application.DTO
 {
     public class OrderDTO
     {
-        public string Stage { get; set; }
         public Guid UserId { get; set; }
-        public ICollection<Guid>? ItemsOrderedId { get; set; }
+
+        public ICollection<ItemsOrderedDTO> ItemOrdered { get; set; }
     }
 }

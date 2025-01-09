@@ -10,6 +10,5 @@ namespace POS.Application.DTO
     public class UserDTO
     {
         public string Name { get; set; }
-        public ICollection<Guid>? OrderId{ get; set; }
     }
 }

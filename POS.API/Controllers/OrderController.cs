@@ -36,5 +36,10 @@ namespace POS.API.Controllers
             var res = _mediator.Send(new GetAllQuery());
             return Ok(res);
         }
+        [HttpPut("/UpdateOrderStage")]
+        public IActionResult UpdateOrderStage(Guid id, string stage) {
+            var res = _mediator.Send(new UpdateOrderStageCommand(id, stage));
+            return Ok(res);
+        }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EH+zRo4UiWw=",
+  "dgSpecHash": "0pxBXOum92A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sys.admin\\source\\repos\\POS.API\\POS.Application\\POS.Application.csproj",
+  "projectFilePath": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\POS.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sys.admin\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\sys.admin\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

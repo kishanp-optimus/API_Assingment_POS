@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xSr77s7PW5c=",
+  "dgSpecHash": "g1hyEmcwdp0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sys.admin\\source\\repos\\POS.API\\POS.Persistance\\POS.Persistance.csproj",
+  "projectFilePath": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Persistance\\POS.Persistance.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sys.admin\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\sys.admin\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

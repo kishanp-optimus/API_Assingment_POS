@@ -26,6 +26,7 @@ builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IItemsRepository, ItemRepository>();
 builder.Services.AddScoped<IOrderRepository, OrderRepository>();
 builder.Services.AddScoped<ItemsOrdered, ItemsOrdered>();
+builder.Services.AddScoped<IItemsOrderedRepository, ItemOrderedRepository>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

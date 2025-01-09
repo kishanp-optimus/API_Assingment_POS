@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sys.admin\\source\\repos\\POS.API\\POS.Domain\\POS.Domain.csproj": {}
+    "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Domain\\POS.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sys.admin\\source\\repos\\POS.API\\POS.Domain\\POS.Domain.csproj": {
+    "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Domain\\POS.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sys.admin\\source\\repos\\POS.API\\POS.Domain\\POS.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Domain\\POS.Domain.csproj",
         "projectName": "POS.Domain",
-        "projectPath": "C:\\Users\\sys.admin\\source\\repos\\POS.API\\POS.Domain\\POS.Domain.csproj",
+        "projectPath": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Domain\\POS.Domain.csproj",
         "packagesPath": "C:\\Users\\sys.admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sys.admin\\source\\repos\\POS.API\\POS.Domain\\obj\\",
+        "outputPath": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -10,8 +10,6 @@ namespace POS.Application.DTO
     public class ItemsOrderedDTO
     {
         public Guid ItemID { get; set; }
-        public Guid OrderID { get; set; }
         public int Quantity { get; set; }
-        public int Price { get; set; }
     }
 }
