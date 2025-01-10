@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.API\\POS.API.csproj": {}
+    "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.API\\POS.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.API\\POS.API.csproj": {
+    "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.API\\POS.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.API\\POS.API.csproj",
+        "projectUniqueName": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.API\\POS.API.csproj",
         "projectName": "POS.API",
-        "projectPath": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.API\\POS.API.csproj",
-        "packagesPath": "C:\\Users\\sys.admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.API\\obj\\",
+        "projectPath": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.API\\POS.API.csproj",
+        "packagesPath": "C:\\Users\\kishan.payadi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\sys.admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kishan.payadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,14 +33,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\POS.Application.csproj": {
-                "projectPath": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\POS.Application.csproj"
+              "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\POS.Application.csproj": {
+                "projectPath": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\POS.Application.csproj"
               },
-              "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Infrastructure\\POS.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Infrastructure\\POS.Infrastructure.csproj"
+              "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Infrastructure\\POS.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Infrastructure\\POS.Infrastructure.csproj"
               },
-              "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Persistance\\POS.Persistance.csproj": {
-                "projectPath": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Persistance\\POS.Persistance.csproj"
+              "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Persistance\\POS.Persistance.csproj": {
+                "projectPath": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Persistance\\POS.Persistance.csproj"
               }
             }
           }
@@ -106,20 +106,20 @@
         }
       }
     },
-    "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\POS.Application.csproj": {
+    "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\POS.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\POS.Application.csproj",
+        "projectUniqueName": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\POS.Application.csproj",
         "projectName": "POS.Application",
-        "projectPath": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\POS.Application.csproj",
-        "packagesPath": "C:\\Users\\sys.admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\obj\\",
+        "projectPath": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\POS.Application.csproj",
+        "packagesPath": "C:\\Users\\kishan.payadi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\sys.admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kishan.payadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -135,8 +135,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Domain\\POS.Domain.csproj": {
-                "projectPath": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Domain\\POS.Domain.csproj"
+              "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Domain\\POS.Domain.csproj": {
+                "projectPath": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Domain\\POS.Domain.csproj"
               }
             }
           }
@@ -221,20 +221,20 @@
         }
       }
     },
-    "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Domain\\POS.Domain.csproj": {
+    "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Domain\\POS.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Domain\\POS.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Domain\\POS.Domain.csproj",
         "projectName": "POS.Domain",
-        "projectPath": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Domain\\POS.Domain.csproj",
-        "packagesPath": "C:\\Users\\sys.admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Domain\\obj\\",
+        "projectPath": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Domain\\POS.Domain.csproj",
+        "packagesPath": "C:\\Users\\kishan.payadi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\sys.admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kishan.payadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -332,20 +332,20 @@
         }
       }
     },
-    "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Infrastructure\\POS.Infrastructure.csproj": {
+    "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Infrastructure\\POS.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Infrastructure\\POS.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Infrastructure\\POS.Infrastructure.csproj",
         "projectName": "POS.Infrastructure",
-        "projectPath": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Infrastructure\\POS.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\sys.admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Infrastructure\\POS.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\kishan.payadi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\sys.admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kishan.payadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -443,20 +443,20 @@
         }
       }
     },
-    "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Persistance\\POS.Persistance.csproj": {
+    "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Persistance\\POS.Persistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Persistance\\POS.Persistance.csproj",
+        "projectUniqueName": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Persistance\\POS.Persistance.csproj",
         "projectName": "POS.Persistance",
-        "projectPath": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Persistance\\POS.Persistance.csproj",
-        "packagesPath": "C:\\Users\\sys.admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Persistance\\obj\\",
+        "projectPath": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Persistance\\POS.Persistance.csproj",
+        "packagesPath": "C:\\Users\\kishan.payadi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Persistance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\sys.admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kishan.payadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -472,8 +472,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\POS.Application.csproj": {
-                "projectPath": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\POS.Application.csproj"
+              "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\POS.Application.csproj": {
+                "projectPath": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\POS.Application.csproj"
               }
             }
           }
