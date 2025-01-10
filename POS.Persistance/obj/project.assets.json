@@ -4755,7 +4755,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kishan.payadi\\.nuget\\packages\\": {},
+    "C:\\Users\\sys.admin\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -4764,14 +4764,14 @@
       "projectUniqueName": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Persistance\\POS.Persistance.csproj",
       "projectName": "POS.Persistance",
       "projectPath": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Persistance\\POS.Persistance.csproj",
-      "packagesPath": "C:\\Users\\kishan.payadi\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\sys.admin\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Persistance\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\kishan.payadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sys.admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

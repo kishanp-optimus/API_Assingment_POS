@@ -11,8 +11,10 @@ namespace POS.Application.Features.OrderFeature.Command
     public class CreateOrderCommand : IRequest<Guid>
     {
         public OrderDTO OrderDTO { get; set; }
-        public CreateOrderCommand(OrderDTO orderDTO) {
+        public Guid id { get; set; }
+        public CreateOrderCommand(Guid id, OrderDTO orderDTO) {
             this.OrderDTO = orderDTO;
+            this.id = id;
         }
     }
 }

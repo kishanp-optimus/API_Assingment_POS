@@ -25,9 +25,13 @@ namespace POS.API.Controllers
         [HttpPost("/CreateOrder")]
         public IActionResult CreateOrder(OrderDTO order)
         {
-            var id = User.Claims.FirstOrDefault(x => x.Type == JwtRegisteredClaimNames.NameId)?.Value;
-            order.UserId = Guid.Parse(id);
-            var res = _mediator.Send(new CreateOrderCommand(order));
+            var id = User.Claims.FirstOrDefault(c => c.Type == "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier")?.Value;
+            if (id == null)
+            {
+                return Unauthorized("User ID claim not found in token.");
+            }
+            var userId = Guid.Parse(id);
+            var res = _mediator.Send(new CreateOrderCommand(userId, order));
             return Ok(res);
         }
         [Authorize(Policy = "UserPolicy")]

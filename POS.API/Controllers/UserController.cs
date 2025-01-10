@@ -48,7 +48,7 @@ namespace POS.API.Controllers
             var res = _mediator.Send(new GetUserByIdQuery(id));
             return Ok(res);
         }
-        [Authorize]
+        [AllowAnonymous]
         [HttpGet("/GetAllUsers")]
         public IActionResult GetAllUsers()
         {

@@ -1,126 +1,126 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sys.admin\\source\\repos\\POS\\",
+  "WorkspaceRootPath": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\pos\\pos.application\\features\\orderfeature\\handler\\createorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.application\\features\\orderfeature\\handler\\createorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\features\\orderfeature\\handler\\createorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\pos\\pos.application\\features\\orderfeature\\command\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.application\\features\\orderfeature\\command\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\features\\orderfeature\\command\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\pos\\pos.application\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB8D86B0-AA3F-4988-8465-FA30B1804A9F}|POS.API\\POS.API.csproj|c:\\users\\sys.admin\\source\\repos\\pos\\pos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB8D86B0-AA3F-4988-8465-FA30B1804A9F}|POS.API\\POS.API.csproj|solutionrelative:pos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB8D86B0-AA3F-4988-8465-FA30B1804A9F}|POS.API\\POS.API.csproj|c:\\users\\sys.admin\\source\\repos\\pos\\pos.api\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB8D86B0-AA3F-4988-8465-FA30B1804A9F}|POS.API\\POS.API.csproj|solutionrelative:pos.api\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB8D86B0-AA3F-4988-8465-FA30B1804A9F}|POS.API\\POS.API.csproj|c:\\users\\sys.admin\\source\\repos\\pos\\pos.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB8D86B0-AA3F-4988-8465-FA30B1804A9F}|POS.API\\POS.API.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB8D86B0-AA3F-4988-8465-FA30B1804A9F}|POS.API\\POS.API.csproj|solutionrelative:pos.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB8D86B0-AA3F-4988-8465-FA30B1804A9F}|POS.API\\POS.API.csproj|c:\\users\\sys.admin\\source\\repos\\pos\\pos.api\\controllers\\itemsorderedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB8D86B0-AA3F-4988-8465-FA30B1804A9F}|POS.API\\POS.API.csproj|solutionrelative:pos.api\\controllers\\itemsorderedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.application\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7F9FCD6-6118-4AAC-AB4E-61EEAA5C9CE6}|POS.Domain\\POS.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\pos\\pos.domain\\entity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7F9FCD6-6118-4AAC-AB4E-61EEAA5C9CE6}|POS.Domain\\POS.Domain.csproj|solutionrelative:pos.domain\\entity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04AE6D6-3E79-4943-A26E-A8E7CDE92E19}|POS.Persistance\\POS.Persistance.csproj|c:\\users\\sys.admin\\source\\repos\\pos\\pos.persistance\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04AE6D6-3E79-4943-A26E-A8E7CDE92E19}|POS.Persistance\\POS.Persistance.csproj|solutionrelative:pos.persistance\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\pos\\pos.application\\features\\usersfeature\\handler\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\features\\usersfeature\\handler\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04AE6D6-3E79-4943-A26E-A8E7CDE92E19}|POS.Persistance\\POS.Persistance.csproj|c:\\users\\sys.admin\\source\\repos\\pos\\pos.persistance\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D04AE6D6-3E79-4943-A26E-A8E7CDE92E19}|POS.Persistance\\POS.Persistance.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.persistance\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D04AE6D6-3E79-4943-A26E-A8E7CDE92E19}|POS.Persistance\\POS.Persistance.csproj|solutionrelative:pos.persistance\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D04AE6D6-3E79-4943-A26E-A8E7CDE92E19}|POS.Persistance\\POS.Persistance.csproj|c:\\users\\sys.admin\\source\\repos\\pos\\pos.persistance\\repository\\itemorderedrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D04AE6D6-3E79-4943-A26E-A8E7CDE92E19}|POS.Persistance\\POS.Persistance.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.persistance\\repository\\itemorderedrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D04AE6D6-3E79-4943-A26E-A8E7CDE92E19}|POS.Persistance\\POS.Persistance.csproj|solutionrelative:pos.persistance\\repository\\itemorderedrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB8D86B0-AA3F-4988-8465-FA30B1804A9F}|POS.API\\POS.API.csproj|c:\\users\\sys.admin\\source\\repos\\pos\\pos.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB8D86B0-AA3F-4988-8465-FA30B1804A9F}|POS.API\\POS.API.csproj|solutionrelative:pos.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB8D86B0-AA3F-4988-8465-FA30B1804A9F}|POS.API\\POS.API.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.api\\controllers\\itemsorderedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8D86B0-AA3F-4988-8465-FA30B1804A9F}|POS.API\\POS.API.csproj|solutionrelative:pos.api\\controllers\\itemsorderedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\pos\\pos.application\\features\\itemfeature\\handler\\createitemhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\features\\itemfeature\\handler\\createitemhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\pos\\pos.application\\features\\itemfeature\\command\\createitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\features\\itemfeature\\command\\createitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04AE6D6-3E79-4943-A26E-A8E7CDE92E19}|POS.Persistance\\POS.Persistance.csproj|c:\\users\\sys.admin\\source\\repos\\pos\\pos.persistance\\repository\\issuetokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D04AE6D6-3E79-4943-A26E-A8E7CDE92E19}|POS.Persistance\\POS.Persistance.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.persistance\\repository\\issuetokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D04AE6D6-3E79-4943-A26E-A8E7CDE92E19}|POS.Persistance\\POS.Persistance.csproj|solutionrelative:pos.persistance\\repository\\issuetokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB8D86B0-AA3F-4988-8465-FA30B1804A9F}|POS.API\\POS.API.csproj|c:\\users\\sys.admin\\source\\repos\\pos\\pos.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EB8D86B0-AA3F-4988-8465-FA30B1804A9F}|POS.API\\POS.API.csproj|solutionrelative:pos.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{D04AE6D6-3E79-4943-A26E-A8E7CDE92E19}|POS.Persistance\\POS.Persistance.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.persistance\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04AE6D6-3E79-4943-A26E-A8E7CDE92E19}|POS.Persistance\\POS.Persistance.csproj|solutionrelative:pos.persistance\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7F9FCD6-6118-4AAC-AB4E-61EEAA5C9CE6}|POS.Domain\\POS.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\pos\\pos.domain\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7F9FCD6-6118-4AAC-AB4E-61EEAA5C9CE6}|POS.Domain\\POS.Domain.csproj|solutionrelative:pos.domain\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.application\\features\\usersfeature\\handler\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\features\\usersfeature\\handler\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\pos\\pos.application\\interface\\iissuetokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\interface\\iissuetokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\pos\\pos.application\\features\\usersfeature\\command\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\features\\usersfeature\\command\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\pos\\pos.application\\features\\usersfeature\\handler\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\features\\usersfeature\\handler\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\pos\\pos.application\\mapping\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\mapping\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\pos\\pos.application\\mapping\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\mapping\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Persistance\\Migrations\\20250109073301_5th.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:POS.Persistance\\Migrations\\20250109073301_5th.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\pos\\pos.application\\dto\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\dto\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\pos\\pos.application\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\pos\\pos.application\\features\\usersfeature\\command\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\features\\usersfeature\\command\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\pos\\pos.application\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.application\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\pos\\pos.application\\dto\\itemsordereddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.application\\dto\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\dto\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.application\\features\\itemfeature\\handler\\createitemhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\features\\itemfeature\\handler\\createitemhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.application\\features\\itemfeature\\command\\createitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\features\\itemfeature\\command\\createitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8D86B0-AA3F-4988-8465-FA30B1804A9F}|POS.API\\POS.API.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8D86B0-AA3F-4988-8465-FA30B1804A9F}|POS.API\\POS.API.csproj|solutionrelative:pos.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04AE6D6-3E79-4943-A26E-A8E7CDE92E19}|POS.Persistance\\POS.Persistance.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.persistance\\migrations\\20250110072515_fifth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04AE6D6-3E79-4943-A26E-A8E7CDE92E19}|POS.Persistance\\POS.Persistance.csproj|solutionrelative:pos.persistance\\migrations\\20250110072515_fifth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8D86B0-AA3F-4988-8465-FA30B1804A9F}|POS.API\\POS.API.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB8D86B0-AA3F-4988-8465-FA30B1804A9F}|POS.API\\POS.API.csproj|solutionrelative:pos.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8D86B0-AA3F-4988-8465-FA30B1804A9F}|POS.API\\POS.API.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8D86B0-AA3F-4988-8465-FA30B1804A9F}|POS.API\\POS.API.csproj|solutionrelative:pos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.application\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F9FCD6-6118-4AAC-AB4E-61EEAA5C9CE6}|POS.Domain\\POS.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.domain\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F9FCD6-6118-4AAC-AB4E-61EEAA5C9CE6}|POS.Domain\\POS.Domain.csproj|solutionrelative:pos.domain\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8D86B0-AA3F-4988-8465-FA30B1804A9F}|POS.API\\POS.API.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.api\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8D86B0-AA3F-4988-8465-FA30B1804A9F}|POS.API\\POS.API.csproj|solutionrelative:pos.api\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F9FCD6-6118-4AAC-AB4E-61EEAA5C9CE6}|POS.Domain\\POS.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.domain\\entity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F9FCD6-6118-4AAC-AB4E-61EEAA5C9CE6}|POS.Domain\\POS.Domain.csproj|solutionrelative:pos.domain\\entity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.application\\features\\usersfeature\\command\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\features\\usersfeature\\command\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.application\\features\\usersfeature\\handler\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\features\\usersfeature\\handler\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.application\\mapping\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\mapping\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.application\\mapping\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\mapping\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.application\\dto\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\dto\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.application\\features\\usersfeature\\command\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\features\\usersfeature\\command\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.application\\dto\\itemsordereddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\dto\\itemsordereddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\pos\\pos.application\\dto\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\dto\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D04AE6D6-3E79-4943-A26E-A8E7CDE92E19}|POS.Persistance\\POS.Persistance.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.persistance\\migrations\\20250109073301_5th.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04AE6D6-3E79-4943-A26E-A8E7CDE92E19}|POS.Persistance\\POS.Persistance.csproj|solutionrelative:pos.persistance\\migrations\\20250109073301_5th.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -130,58 +130,101 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "CreateOrderHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\Features\\OrderFeature\\Handler\\CreateOrderHandler.cs",
+              "RelativeDocumentMoniker": "POS.Application\\Features\\OrderFeature\\Handler\\CreateOrderHandler.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\Features\\OrderFeature\\Handler\\CreateOrderHandler.cs",
+              "RelativeToolTip": "POS.Application\\Features\\OrderFeature\\Handler\\CreateOrderHandler.cs",
+              "ViewState": "AgIAAA4AAACAmZmZmVk6wB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T06:38:16.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.API\\Controllers\\OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.API\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "POS.API\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.API\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "POS.API\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAACAAAAAAAgAAAAAkwCQAAAAZAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.API\\Controllers\\OrderController.cs*",
+              "RelativeToolTip": "POS.API\\Controllers\\OrderController.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvyEAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T06:27:08.016Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "CreateOrderCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\Features\\OrderFeature\\Command\\CreateOrderCommand.cs",
+              "RelativeDocumentMoniker": "POS.Application\\Features\\OrderFeature\\Command\\CreateOrderCommand.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\Features\\OrderFeature\\Command\\CreateOrderCommand.cs",
+              "RelativeToolTip": "POS.Application\\Features\\OrderFeature\\Command\\CreateOrderCommand.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAWwBAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T06:38:16.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemOrderedRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Persistance\\Repository\\ItemOrderedRepository.cs",
+              "RelativeDocumentMoniker": "POS.Persistance\\Repository\\ItemOrderedRepository.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Persistance\\Repository\\ItemOrderedRepository.cs",
+              "RelativeToolTip": "POS.Persistance\\Repository\\ItemOrderedRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T06:38:16.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Persistance\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "POS.Persistance\\Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Persistance\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "POS.Persistance\\Repository\\OrderRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T06:38:16.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "OrderDTO.cs",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\DTO\\OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\DTO\\OrderDTO.cs",
               "RelativeDocumentMoniker": "POS.Application\\DTO\\OrderDTO.cs",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\DTO\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\DTO\\OrderDTO.cs",
               "RelativeToolTip": "POS.Application\\DTO\\OrderDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T06:41:51.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ItemController.cs",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.API\\Controllers\\ItemController.cs",
-              "RelativeDocumentMoniker": "POS.API\\Controllers\\ItemController.cs",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.API\\Controllers\\ItemController.cs",
-              "RelativeToolTip": "POS.API\\Controllers\\ItemController.cs",
-              "ViewState": "AgIAAAsAAAAAMzMzMzMbwBAAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T10:05:17.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ItemsOrderedController.cs",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.API\\Controllers\\ItemsOrderedController.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.API\\Controllers\\ItemsOrderedController.cs",
               "RelativeDocumentMoniker": "POS.API\\Controllers\\ItemsOrderedController.cs",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.API\\Controllers\\ItemsOrderedController.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.API\\Controllers\\ItemsOrderedController.cs",
               "RelativeToolTip": "POS.API\\Controllers\\ItemsOrderedController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -190,341 +233,289 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreateOrderHandler.cs",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\Features\\OrderFeature\\Handler\\CreateOrderHandler.cs",
-              "RelativeDocumentMoniker": "POS.Application\\Features\\OrderFeature\\Handler\\CreateOrderHandler.cs",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\Features\\OrderFeature\\Handler\\CreateOrderHandler.cs*",
-              "RelativeToolTip": "POS.Application\\Features\\OrderFeature\\Handler\\CreateOrderHandler.cs*",
-              "ViewState": "AgIAADUAAAAAzMzMzMwLwBYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T06:38:16.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.API\\Program.cs",
-              "RelativeDocumentMoniker": "POS.API\\Program.cs",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.API\\Program.cs",
-              "RelativeToolTip": "POS.API\\Program.cs",
-              "ViewState": "AgIAAFoAAAAAZWZmZuYawCIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T09:54:13.395Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateOrderCommand.cs",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\Features\\OrderFeature\\Command\\CreateOrderCommand.cs",
-              "RelativeDocumentMoniker": "POS.Application\\Features\\OrderFeature\\Command\\CreateOrderCommand.cs",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\Features\\OrderFeature\\Command\\CreateOrderCommand.cs",
-              "RelativeToolTip": "POS.Application\\Features\\OrderFeature\\Command\\CreateOrderCommand.cs",
-              "ViewState": "AgIAAAgAAABAZmZmZmYewA0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T06:38:16.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Persistance\\Repository\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "POS.Persistance\\Repository\\OrderRepository.cs",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Persistance\\Repository\\OrderRepository.cs",
-              "RelativeToolTip": "POS.Persistance\\Repository\\OrderRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T06:38:16.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ItemOrderedRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Persistance\\Repository\\ItemOrderedRepository.cs",
-              "RelativeDocumentMoniker": "POS.Persistance\\Repository\\ItemOrderedRepository.cs",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Persistance\\Repository\\ItemOrderedRepository.cs",
-              "RelativeToolTip": "POS.Persistance\\Repository\\ItemOrderedRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T06:38:16.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Persistance\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "POS.Persistance\\Repository\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Persistance\\Repository\\UserRepository.cs",
-              "RelativeToolTip": "POS.Persistance\\Repository\\UserRepository.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAADwv1EAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T07:01:25.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Domain\\Entity\\Order.cs",
-              "RelativeDocumentMoniker": "POS.Domain\\Entity\\Order.cs",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Domain\\Entity\\Order.cs",
-              "RelativeToolTip": "POS.Domain\\Entity\\Order.cs",
-              "ViewState": "AgIAAAQAAABAZmZmZiYgwA4AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T04:26:06.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
               "Title": "LoginUserHandler.cs",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\Features\\UsersFeature\\Handler\\LoginUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\Features\\UsersFeature\\Handler\\LoginUserHandler.cs",
               "RelativeDocumentMoniker": "POS.Application\\Features\\UsersFeature\\Handler\\LoginUserHandler.cs",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\Features\\UsersFeature\\Handler\\LoginUserHandler.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\Features\\UsersFeature\\Handler\\LoginUserHandler.cs",
               "RelativeToolTip": "POS.Application\\Features\\UsersFeature\\Handler\\LoginUserHandler.cs",
-              "ViewState": "AgIAABQAAAAAZmZmZuYSwBgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAACQmZmZmRk8wBsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T07:01:21.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.API\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "POS.API\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.API\\Controllers\\UserController.cs",
-              "RelativeToolTip": "POS.API\\Controllers\\UserController.cs",
-              "ViewState": "AgIAADgAAAAAmpmZmVkowD0AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T06:27:18.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CreateItemCommand.cs",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\Features\\ItemFeature\\Command\\CreateItemCommand.cs",
-              "RelativeDocumentMoniker": "POS.Application\\Features\\ItemFeature\\Command\\CreateItemCommand.cs",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\Features\\ItemFeature\\Command\\CreateItemCommand.cs",
-              "RelativeToolTip": "POS.Application\\Features\\ItemFeature\\Command\\CreateItemCommand.cs",
-              "ViewState": "AgIAAAoAAABAMzMzM7MVwA0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T11:08:41.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IssueTokenRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Persistance\\Repository\\IssueTokenRepository.cs",
-              "RelativeDocumentMoniker": "POS.Persistance\\Repository\\IssueTokenRepository.cs",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Persistance\\Repository\\IssueTokenRepository.cs",
-              "RelativeToolTip": "POS.Persistance\\Repository\\IssueTokenRepository.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAkwDYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T09:03:11.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CreateItemHandler.cs",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\Features\\ItemFeature\\Handler\\CreateItemHandler.cs",
-              "RelativeDocumentMoniker": "POS.Application\\Features\\ItemFeature\\Handler\\CreateItemHandler.cs",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\Features\\ItemFeature\\Handler\\CreateItemHandler.cs",
-              "RelativeToolTip": "POS.Application\\Features\\ItemFeature\\Handler\\CreateItemHandler.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAIApwBcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T10:27:56.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.API\\appsettings.json",
-              "RelativeDocumentMoniker": "POS.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.API\\appsettings.json",
-              "RelativeToolTip": "POS.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-09T08:59:34.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Domain\\Entity\\User.cs",
-              "RelativeDocumentMoniker": "POS.Domain\\Entity\\User.cs",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Domain\\Entity\\User.cs",
-              "RelativeToolTip": "POS.Domain\\Entity\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T07:00:00.824Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "LoginUserCommand.cs",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\Features\\UsersFeature\\Command\\LoginUserCommand.cs",
-              "RelativeDocumentMoniker": "POS.Application\\Features\\UsersFeature\\Command\\LoginUserCommand.cs",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\Features\\UsersFeature\\Command\\LoginUserCommand.cs",
-              "RelativeToolTip": "POS.Application\\Features\\UsersFeature\\Command\\LoginUserCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T07:01:07.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "20250109073301_5th.cs",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Persistance\\Migrations\\20250109073301_5th.cs",
-              "RelativeDocumentMoniker": "POS.Persistance\\Migrations\\20250109073301_5th.cs",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Persistance\\Migrations\\20250109073301_5th.cs",
-              "RelativeToolTip": "POS.Persistance\\Migrations\\20250109073301_5th.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T07:33:01.794Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IIssueTokenRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\Interface\\IIssueTokenRepository.cs",
-              "RelativeDocumentMoniker": "POS.Application\\Interface\\IIssueTokenRepository.cs",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\Interface\\IIssueTokenRepository.cs",
-              "RelativeToolTip": "POS.Application\\Interface\\IIssueTokenRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T09:04:12.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CreateUserHandler.cs",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\Features\\UsersFeature\\Handler\\CreateUserHandler.cs",
-              "RelativeDocumentMoniker": "POS.Application\\Features\\UsersFeature\\Handler\\CreateUserHandler.cs",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\Features\\UsersFeature\\Handler\\CreateUserHandler.cs",
-              "RelativeToolTip": "POS.Application\\Features\\UsersFeature\\Handler\\CreateUserHandler.cs",
-              "ViewState": "AgIAAAgAAADg/////38pwBcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T07:24:09.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "OrderProfile.cs",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\Mapping\\OrderProfile.cs",
-              "RelativeDocumentMoniker": "POS.Application\\Mapping\\OrderProfile.cs",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\Mapping\\OrderProfile.cs",
-              "RelativeToolTip": "POS.Application\\Mapping\\OrderProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T07:34:43.142Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "UserProfile.cs",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\Mapping\\UserProfile.cs",
-              "RelativeDocumentMoniker": "POS.Application\\Mapping\\UserProfile.cs",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\Mapping\\UserProfile.cs",
-              "RelativeToolTip": "POS.Application\\Mapping\\UserProfile.cs",
-              "ViewState": "AgIAAAgAAADAzMzMzAwowBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T07:35:46.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "RegisterUserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\DTO\\RegisterUserDTO.cs",
-              "RelativeDocumentMoniker": "POS.Application\\DTO\\RegisterUserDTO.cs",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\DTO\\RegisterUserDTO.cs",
-              "RelativeToolTip": "POS.Application\\DTO\\RegisterUserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T07:21:11.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\Interface\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "POS.Application\\Interface\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\Interface\\IUserRepository.cs",
-              "RelativeToolTip": "POS.Application\\Interface\\IUserRepository.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAApwBEAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T07:01:49.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "CreateUserCommand.cs",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\Features\\UsersFeature\\Command\\CreateUserCommand.cs",
-              "RelativeDocumentMoniker": "POS.Application\\Features\\UsersFeature\\Command\\CreateUserCommand.cs",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\Features\\UsersFeature\\Command\\CreateUserCommand.cs",
-              "RelativeToolTip": "POS.Application\\Features\\UsersFeature\\Command\\CreateUserCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T07:23:51.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ItemsOrderedDTO.cs",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\DTO\\ItemsOrderedDTO.cs",
-              "RelativeDocumentMoniker": "POS.Application\\DTO\\ItemsOrderedDTO.cs",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\DTO\\ItemsOrderedDTO.cs",
-              "RelativeToolTip": "POS.Application\\DTO\\ItemsOrderedDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T06:41:56.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 10,
               "Title": "UserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\DTO\\UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\DTO\\UserDTO.cs",
               "RelativeDocumentMoniker": "POS.Application\\DTO\\UserDTO.cs",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\DTO\\UserDTO.cs",
               "RelativeToolTip": "POS.Application\\DTO\\UserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T06:38:49.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 11,
               "Title": "ItemDTO.cs",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\DTO\\ItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\DTO\\ItemDTO.cs",
               "RelativeDocumentMoniker": "POS.Application\\DTO\\ItemDTO.cs",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\POS\\POS.Application\\DTO\\ItemDTO.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\DTO\\ItemDTO.cs",
               "RelativeToolTip": "POS.Application\\DTO\\ItemDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T06:37:50.447Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IssueTokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Persistance\\Repository\\IssueTokenRepository.cs",
+              "RelativeDocumentMoniker": "POS.Persistance\\Repository\\IssueTokenRepository.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Persistance\\Repository\\IssueTokenRepository.cs",
+              "RelativeToolTip": "POS.Persistance\\Repository\\IssueTokenRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwCsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:03:11.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Persistance\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "POS.Persistance\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Persistance\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "POS.Persistance\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAFEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T07:01:25.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateItemHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\Features\\ItemFeature\\Handler\\CreateItemHandler.cs",
+              "RelativeDocumentMoniker": "POS.Application\\Features\\ItemFeature\\Handler\\CreateItemHandler.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\Features\\ItemFeature\\Handler\\CreateItemHandler.cs",
+              "RelativeToolTip": "POS.Application\\Features\\ItemFeature\\Handler\\CreateItemHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:27:56.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateItemCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\Features\\ItemFeature\\Command\\CreateItemCommand.cs",
+              "RelativeDocumentMoniker": "POS.Application\\Features\\ItemFeature\\Command\\CreateItemCommand.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\Features\\ItemFeature\\Command\\CreateItemCommand.cs",
+              "RelativeToolTip": "POS.Application\\Features\\ItemFeature\\Command\\CreateItemCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T11:08:41.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "POS.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "POS.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAC4AAADAZmZmZuYSwDYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T06:27:18.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250110072515_fifth.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Persistance\\Migrations\\20250110072515_fifth.cs",
+              "RelativeDocumentMoniker": "POS.Persistance\\Migrations\\20250110072515_fifth.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Persistance\\Migrations\\20250110072515_fifth.cs",
+              "RelativeToolTip": "POS.Persistance\\Migrations\\20250110072515_fifth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T07:25:15.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "POS.Application\\Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "POS.Application\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAtwA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T07:01:49.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.API\\Program.cs",
+              "RelativeDocumentMoniker": "POS.API\\Program.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.API\\Program.cs",
+              "RelativeToolTip": "POS.API\\Program.cs",
+              "ViewState": "AgIAACUAAADAAAAAAMAtwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:54:13.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.API\\appsettings.json",
+              "RelativeDocumentMoniker": "POS.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.API\\appsettings.json",
+              "RelativeToolTip": "POS.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-09T08:59:34.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Domain\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "POS.Domain\\Entity\\User.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Domain\\Entity\\User.cs",
+              "RelativeToolTip": "POS.Domain\\Entity\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T07:00:00.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.API\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "POS.API\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.API\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "POS.API\\Controllers\\ItemController.cs",
+              "ViewState": "AgIAAAsAAAAAMzMzMzMbwBAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:05:17.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Domain\\Entity\\Order.cs",
+              "RelativeDocumentMoniker": "POS.Domain\\Entity\\Order.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Domain\\Entity\\Order.cs",
+              "RelativeToolTip": "POS.Domain\\Entity\\Order.cs",
+              "ViewState": "AgIAAAQAAABAZmZmZiYgwA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T04:26:06.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\Features\\UsersFeature\\Command\\LoginUserCommand.cs",
+              "RelativeDocumentMoniker": "POS.Application\\Features\\UsersFeature\\Command\\LoginUserCommand.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\Features\\UsersFeature\\Command\\LoginUserCommand.cs",
+              "RelativeToolTip": "POS.Application\\Features\\UsersFeature\\Command\\LoginUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T07:01:07.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250109073301_5th.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Persistance\\Migrations\\20250109073301_5th.cs",
+              "RelativeDocumentMoniker": "POS.Persistance\\Migrations\\20250109073301_5th.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Persistance\\Migrations\\20250109073301_5th.cs",
+              "RelativeToolTip": "POS.Persistance\\Migrations\\20250109073301_5th.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T07:33:01.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\Features\\UsersFeature\\Handler\\CreateUserHandler.cs",
+              "RelativeDocumentMoniker": "POS.Application\\Features\\UsersFeature\\Handler\\CreateUserHandler.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\Features\\UsersFeature\\Handler\\CreateUserHandler.cs",
+              "RelativeToolTip": "POS.Application\\Features\\UsersFeature\\Handler\\CreateUserHandler.cs",
+              "ViewState": "AgIAAAgAAADg/////38pwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T07:24:09.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderProfile.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\Mapping\\OrderProfile.cs",
+              "RelativeDocumentMoniker": "POS.Application\\Mapping\\OrderProfile.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\Mapping\\OrderProfile.cs",
+              "RelativeToolTip": "POS.Application\\Mapping\\OrderProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T07:34:43.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\Mapping\\UserProfile.cs",
+              "RelativeDocumentMoniker": "POS.Application\\Mapping\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\Mapping\\UserProfile.cs",
+              "RelativeToolTip": "POS.Application\\Mapping\\UserProfile.cs",
+              "ViewState": "AgIAAAgAAADAzMzMzAwowBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T07:35:46.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RegisterUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\DTO\\RegisterUserDTO.cs",
+              "RelativeDocumentMoniker": "POS.Application\\DTO\\RegisterUserDTO.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\DTO\\RegisterUserDTO.cs",
+              "RelativeToolTip": "POS.Application\\DTO\\RegisterUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T07:21:11.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\Features\\UsersFeature\\Command\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "POS.Application\\Features\\UsersFeature\\Command\\CreateUserCommand.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\Features\\UsersFeature\\Command\\CreateUserCommand.cs",
+              "RelativeToolTip": "POS.Application\\Features\\UsersFeature\\Command\\CreateUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T07:23:51.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ItemsOrderedDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\DTO\\ItemsOrderedDTO.cs",
+              "RelativeDocumentMoniker": "POS.Application\\DTO\\ItemsOrderedDTO.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\DTO\\ItemsOrderedDTO.cs",
+              "RelativeToolTip": "POS.Application\\DTO\\ItemsOrderedDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T06:41:56.528Z"
             }
           ]
         }

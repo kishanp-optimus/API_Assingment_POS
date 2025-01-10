@@ -27,6 +27,7 @@ namespace POS.Application.Features.OrderFeature.Handler
         {
             var OrderDTO = request.OrderDTO;
             var order = OrderProfile.InitialiseMapper().Map<Order>(OrderDTO);
+            order.UserId = request.id;
             order.Id = Guid.NewGuid();
             var items = OrderDTO.ItemOrdered;
             var Items = new List<ItemsOrdered>();

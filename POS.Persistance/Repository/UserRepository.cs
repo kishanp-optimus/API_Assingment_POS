@@ -66,7 +66,7 @@ namespace POS.Persistance.Repository
 
         public Task<User> GetUserById(Guid id)
         {
-            var user = _context.Users.Include(x => x.Orders).FirstOrDefault(x => x.Id == id);
+            var user = _context.Users.FirstOrDefault(x => x.Id == id);
             return Task.FromResult(user);
             throw new NotImplementedException();
         }
