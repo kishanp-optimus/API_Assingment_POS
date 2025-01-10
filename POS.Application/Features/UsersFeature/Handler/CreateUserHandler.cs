@@ -20,7 +20,7 @@ namespace POS.Application.Features.UsersFeature.Handler
         public Task<Guid> Handle(CreateUserCommand request, CancellationToken cancellationToken)
         {
             var UserDTO = request.user;
-            var mapper = UserProfile.InitialiseMapper();
+            var mapper = UserProfile.InitialiseMapper2();
             var user = mapper.Map<User>(UserDTO);
             user.Id = Guid.NewGuid();
             return _userRepository.CreateUser(user);

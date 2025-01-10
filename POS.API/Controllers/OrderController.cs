@@ -1,4 +1,5 @@
 ﻿using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore.Metadata;
@@ -18,24 +19,29 @@ namespace POS.API.Controllers
         {
             _mediator = mediator;
         }
+        [Authorize(Policy = "UserPolicy")]
         [HttpPost("/CreateOrder")]
         public IActionResult CreateOrder(OrderDTO order)
         {
             var res = _mediator.Send(new CreateOrderCommand(order));
             return Ok(res);
         }
+        [Authorize(Policy = "UserPolicy")]
         [HttpDelete("/DeleteOrder")]
         public IActionResult DeleteOrder(Guid id)
         {
             var res = _mediator.Send(new DeleteOrderCommand(id));
             return Ok(res);
         }
+
+        [Authorize(Policy = "AdminPolicy")]
         [HttpGet("/GetAll")]
         public IActionResult GetAll()
         {
             var res = _mediator.Send(new GetAllQuery());
             return Ok(res);
         }
+        [Authorize(Policy = "AdminPolicy")]
         [HttpPut("/UpdateOrderStage")]
         public IActionResult UpdateOrderStage(Guid id, string stage) {
             var res = _mediator.Send(new UpdateOrderStageCommand(id, stage));

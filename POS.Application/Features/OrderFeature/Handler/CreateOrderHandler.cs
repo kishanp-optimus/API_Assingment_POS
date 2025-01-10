@@ -48,7 +48,7 @@ namespace POS.Application.Features.OrderFeature.Handler
                     item1.Stock -= Item.Quantity;
                     await _itemRepo.Update(item1);
                 }
-                //Item.Order = order;
+                Item.Order = order;
                 await _itemOrderedRepo.Create(Item);
             }
             order.Stage = status;

@@ -15,6 +15,7 @@ namespace POS.Application.Interface
         Task<User> GetUserById(Guid id);
         Task<ICollection<User>> GetAllUsers();
         Task<ICollection<Order>> GetAllOrdersOfUser(Guid id);
+        Task<string> LoginUser(User user);
         // I could also create a new entity and return that.
         //Task<ICollection<Order>> GenerateReport(Guid id);
     }

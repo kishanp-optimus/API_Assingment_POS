@@ -1,4 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Microsoft.IdentityModel.Tokens;
 using POS.Application.Interface;
 using POS.Domain.Entity;
 using POS.Persistance.Data;
@@ -13,8 +15,11 @@ namespace POS.Persistance.Repository
     public class UserRepository : IUserRepository
     {
         private readonly ApplicationDbContext _context;
-        public UserRepository(ApplicationDbContext context) {
+        private readonly IConfiguration _configuration;
+        public UserRepository(ApplicationDbContext context, IConfiguration configuration)
+        {
             _context = context;
+            _configuration = configuration;
         }
         public Task<Guid> CreateUser(User user)
         {
@@ -69,6 +74,12 @@ namespace POS.Persistance.Repository
         public Task<Guid> UpdateUser(User user)
         {
             throw new NotImplementedException();
+        }
+        public async Task<string> LoginUser(User user)
+        {
+            var User = await GetUserById(user.Id);
+            var generator = new IssueTokenRepository(_configuration);
+            return await generator.IssueToken(User);
         }
     }
 }

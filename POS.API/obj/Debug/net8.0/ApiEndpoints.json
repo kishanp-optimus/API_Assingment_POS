@@ -32,22 +32,6 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "POS.API.Controllers.UserController",
-    "Method": "CreateUser",
-    "RelativePath": "CreateUser",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "user",
-        "Type": "POS.Application.DTO.UserDTO",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
     "ContainingType": "POS.API.Controllers.ItemController",
     "Method": "DeleteItem",
     "RelativePath": "DeleteItem/{id}",
@@ -168,6 +152,43 @@
       {
         "Name": "id",
         "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "POS.API.Controllers.UserController",
+    "Method": "LoginUser",
+    "RelativePath": "Login/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "user",
+        "Type": "POS.Application.DTO.UserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "POS.API.Controllers.UserController",
+    "Method": "CreateUser",
+    "RelativePath": "Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "POS.Application.DTO.RegisterUserDTO",
         "IsRequired": true
       }
     ],

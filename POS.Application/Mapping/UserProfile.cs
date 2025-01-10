@@ -16,5 +16,11 @@ namespace POS.Application.Mapping
             var config = new MapperConfiguration(cfg => cfg.CreateMap<UserDTO, User>().ForMember(dest => dest.Id, opt => opt.Ignore()));
             return new Mapper(config);
         }
+
+        public static Mapper InitialiseMapper2()
+        {
+            var config = new MapperConfiguration(cfg => cfg.CreateMap<RegisterUserDTO, User>().ForMember(dest => dest.Id, opt => opt.Ignore()));
+            return new Mapper(config);
+        }
     }
 }

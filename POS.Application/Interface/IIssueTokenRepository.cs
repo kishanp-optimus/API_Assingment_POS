@@ -5,11 +5,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace POS.Application.DTO
+namespace POS.Application.Interface
 {
-    public class UserDTO
+    public interface IIssueTokenRepository
     {
-        public string Name { get; set; }
-        public string Password { get; set; }
+        Task<string> IssueToken(User user);
     }
 }
