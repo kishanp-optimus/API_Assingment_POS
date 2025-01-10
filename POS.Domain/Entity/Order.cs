@@ -12,6 +12,7 @@ namespace POS.Domain.Entity
         public string Stage { get; set; }
         public Guid UserId { get; set; }
         public User User { get; set; }
+        public DateTime Created { get; set; }
         public ICollection<ItemsOrdered> ItemsOrdered { get; set; }
     }
 }

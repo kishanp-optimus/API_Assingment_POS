@@ -7,6 +7,8 @@ using POS.Application.DTO;
 using POS.Application.Features.OrderFeature.Command;
 using POS.Application.Features.OrderFeature.Query;
 using System;
+using System.IdentityModel.Tokens.Jwt;
+using System.Linq;
 
 namespace POS.API.Controllers
 {
@@ -23,6 +25,8 @@ namespace POS.API.Controllers
         [HttpPost("/CreateOrder")]
         public IActionResult CreateOrder(OrderDTO order)
         {
+            var id = User.Claims.FirstOrDefault(x => x.Type == JwtRegisteredClaimNames.NameId)?.Value;
+            order.UserId = Guid.Parse(id);
             var res = _mediator.Send(new CreateOrderCommand(order));
             return Ok(res);
         }
@@ -43,7 +47,8 @@ namespace POS.API.Controllers
         }
         [Authorize(Policy = "AdminPolicy")]
         [HttpPut("/UpdateOrderStage")]
-        public IActionResult UpdateOrderStage(Guid id, string stage) {
+        public IActionResult UpdateOrderStage(Guid id, string stage)
+        {
             var res = _mediator.Send(new UpdateOrderStageCommand(id, stage));
             return Ok(res);
         }
