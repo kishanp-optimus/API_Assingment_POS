@@ -10,17 +10,19 @@ using System.Threading.Tasks;
 // Implemenation of the get by id;
 namespace POS.Application.Features.OrderFeature.Handler
 {
-    public class GenerateReportHandler : IRequestHandler<GenerateReportQuery, ICollection<Order>>
+    public class GenerateReportHandler : IRequestHandler<GenerateReportQuery, string>
     {
-        private readonly IUserRepository _userRepo;
-        public GenerateReportHandler(IUserRepository userRepo)
+        private readonly IOrderRepository _orderRepo;
+        public GenerateReportHandler(IOrderRepository orderRepo)
         {
-            _userRepo = userRepo;
+            _orderRepo = orderRepo;
         }
-        public Task<ICollection<Order>> Handle(GenerateReportQuery request, CancellationToken cancellationToken)
+        public Task<string> Handle(GenerateReportQuery request, CancellationToken cancellationToken)
         {
-            var id = request.id;
+            var days = request.days;
             //var res = _userRepo.GenerateReport(id);
+            var report = _orderRepo.GenerateSummary(days);
+            return report;
             throw new NotImplementedException();
             //return res;
         }

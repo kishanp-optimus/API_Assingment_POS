@@ -81,6 +81,22 @@
   },
   {
     "ContainingType": "POS.API.Controllers.OrderController",
+    "Method": "GenerateSummmary",
+    "RelativePath": "GenerateSummary",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "days",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "POS.API.Controllers.OrderController",
     "Method": "GetAll",
     "RelativePath": "GetAll",
     "HttpMethod": "GET",
@@ -123,6 +139,22 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "POS.API.Controllers.OrderController",
+    "Method": "GetByDate",
+    "RelativePath": "GetByDate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Days",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
     "ReturnTypes": []
   },
   {

@@ -56,5 +56,17 @@ namespace POS.API.Controllers
             var res = _mediator.Send(new UpdateOrderStageCommand(id, stage));
             return Ok(res);
         }
+        [Authorize(Policy = "UserPolicy")]
+        [HttpGet("/GetByDate")]
+        public IActionResult GetByDate(int Days) {
+            var res = _mediator.Send(new GetByDateQuery(Days));
+            return Ok(res);
+        }
+        [Authorize(Policy = "AdminPolicy")]
+        [HttpGet("/GenerateSummary")]
+        public IActionResult GenerateSummmary(int days) {
+            var res = _mediator.Send(new GenerateReportQuery(days));
+            return Ok(res);
+        }
     }
 }

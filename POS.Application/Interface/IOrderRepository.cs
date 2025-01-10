@@ -15,5 +15,7 @@ namespace POS.Application.Interface
         public Task<Guid> Update(Order order);
         public Task<bool> Delete(Guid id);
         public Task<Guid> UpdateOrderStage(Guid id, string stage);
+        public Task<ICollection<Order>> GetByDate(int days);
+        public Task<String> GenerateSummary(int days);
     }
 }

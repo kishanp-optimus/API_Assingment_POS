@@ -8,11 +8,10 @@ using System.Threading.Tasks;
 
 namespace POS.Application.Features.OrderFeature.Query
 {
-    public class GenerateReportQuery : IRequest<string>
+    public class GetByDateQuery : IRequest<ICollection<Order>>
     {
-        public int days;
-        public GenerateReportQuery(int days)
-        {
+        public int days { get; set; }
+        public GetByDateQuery(int days) {
             this.days = days;
         }
     }

@@ -7,9 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Features\ItemsOrderedFeature\Command\" />
-    <Folder Include="Features\ItemsOrderedFeature\Handler\" />
-    <Folder Include="Features\ItemsOrderedFeature\Query\" />
+    <Compile Remove="Features\ItemsOrderedFeature\**" />
+    <EmbeddedResource Remove="Features\ItemsOrderedFeature\**" />
+    <None Remove="Features\ItemsOrderedFeature\**" />
   </ItemGroup>
 
   <ItemGroup>

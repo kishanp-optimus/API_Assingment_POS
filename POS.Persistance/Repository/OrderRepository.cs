@@ -36,6 +36,23 @@ namespace POS.Persistance.Repository
             throw new NotImplementedException();
         }
 
+        public async Task<string> GenerateSummary(int days)
+        {
+            var orders = await GetByDate(days);
+
+            var totalSales = orders.Sum(o => o.ItemsOrdered.Sum(i => i.Price * i.Quantity));
+            var numberOfOrders = orders.Count;
+            var revenue = totalSales;
+
+            var summary = new StringBuilder();
+            summary.Append($"Summary for the last {days} days: ");
+            summary.Append($"Total Sales: {totalSales} ");
+            summary.Append($"Number of Orders: {numberOfOrders}");
+            summary.Append($"Revenue: {revenue} ");
+
+            return summary.ToString();
+        }
+
         public Task<ICollection<Order>> GetAll()
         {
             var order = _context.Orders.Include(x => x.ItemsOrdered).ToList();
@@ -43,6 +60,15 @@ namespace POS.Persistance.Repository
             throw new NotImplementedException();
         }
 
+        public async Task<ICollection<Order>> GetByDate(int days)
+        {
+            var dateThreshold = DateTime.UtcNow.AddDays(-days);
+            var res = _context.Orders
+                .Include(x => x.ItemsOrdered)
+                                 .Where(order => order.Created >= dateThreshold)
+                                 .ToList();
+            return res;
+        }
         public Task<Order> GetById(Guid id)
         {
             var order = _context.Orders.Include(x => x.ItemsOrdered).FirstOrDefault(x => x.Id == id);
