@@ -47,7 +47,7 @@ namespace POS.Persistance.Repository
             var summary = new StringBuilder();
             summary.Append($"Summary for the last {days} days: ");
             summary.Append($"Total Sales: {totalSales} ");
-            summary.Append($"Number of Orders: {numberOfOrders}");
+            summary.Append($"Number of Orders: {numberOfOrders} ");
             summary.Append($"Revenue: {revenue} ");
 
             return summary.ToString();

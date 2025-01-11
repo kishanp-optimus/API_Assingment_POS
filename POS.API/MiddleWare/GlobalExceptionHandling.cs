@@ -1,38 +1,38 @@
-﻿using Microsoft.AspNetCore.Http;
-using System;
-using System.Net;
-using System.Threading.Tasks;
+﻿    using Microsoft.AspNetCore.Http;
+    using System;
+    using System.Net;
+    using System.Threading.Tasks;
 
-namespace POS.API.MiddleWare
-{
-    public class GlobalExceptionHandling
+    namespace POS.API.MiddleWare
     {
-        private readonly RequestDelegate _next;
-        public GlobalExceptionHandling(RequestDelegate next) {
-            _next = next;
-        }
-        public async Task InvokeAsync(HttpContext context)
+        public class GlobalExceptionHandling
         {
-            try
-            {
-                await _next(context);
+            private readonly RequestDelegate _next;
+            public GlobalExceptionHandling(RequestDelegate next) {
+                _next = next;
             }
-            catch (Exception ex)
+            public async Task InvokeAsync(HttpContext context)
             {
-                await HandleException(context, ex);
+                try
+                {
+                    await _next(context);
+                }
+                catch (Exception ex)
+                {
+                    await HandleException(context, ex);
+                }
             }
-        }
-        public async Task HandleException(HttpContext context, Exception ex)
-        {
-            context.Response.StatusCode = (int)HttpStatusCode.InternalServerError;
-            context.Response.ContentType = "application/json";
-            var errorresponse = new
+            public async Task HandleException(HttpContext context, Exception ex)
             {
-                StatusCode = context.Response.StatusCode,
-                Message = "Unexpected error"
-            };
-            Console.WriteLine(errorresponse);
-            await context.Response.WriteAsJsonAsync(errorresponse);
+                context.Response.StatusCode = (int)HttpStatusCode.InternalServerError;
+                context.Response.ContentType = "application/json";
+                var errorresponse = new
+                {
+                    StatusCode = context.Response.StatusCode,
+                    Message = "Unexpected error"
+                };
+                Console.WriteLine(errorresponse);
+                await context.Response.WriteAsJsonAsync(errorresponse);
+            }
         }
     }
-}
