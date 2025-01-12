@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED7BD989-6E2E-496F-807A-2C489B6E8C8D}|POS.AzureFunctions\\POS.AzureFunctions.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.azurefunctions\\pos.azurefunctions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{ED7BD989-6E2E-496F-807A-2C489B6E8C8D}|POS.AzureFunctions\\POS.AzureFunctions.csproj|solutionrelative:pos.azurefunctions\\pos.azurefunctions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED7BD989-6E2E-496F-807A-2C489B6E8C8D}|POS.AzureFunctions\\POS.AzureFunctions.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.azurefunctions\\httptriggers\\createitemhttptrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED7BD989-6E2E-496F-807A-2C489B6E8C8D}|POS.AzureFunctions\\POS.AzureFunctions.csproj|solutionrelative:pos.azurefunctions\\httptriggers\\createitemhttptrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED7BD989-6E2E-496F-807A-2C489B6E8C8D}|POS.AzureFunctions\\POS.AzureFunctions.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.azurefunctions\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{ED7BD989-6E2E-496F-807A-2C489B6E8C8D}|POS.AzureFunctions\\POS.AzureFunctions.csproj|solutionrelative:pos.azurefunctions\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED7BD989-6E2E-496F-807A-2C489B6E8C8D}|POS.AzureFunctions\\POS.AzureFunctions.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.azurefunctions\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{ED7BD989-6E2E-496F-807A-2C489B6E8C8D}|POS.AzureFunctions\\POS.AzureFunctions.csproj|solutionrelative:pos.azurefunctions\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED7BD989-6E2E-496F-807A-2C489B6E8C8D}|POS.AzureFunctions\\POS.AzureFunctions.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.azurefunctions\\middleware\\authenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED7BD989-6E2E-496F-807A-2C489B6E8C8D}|POS.AzureFunctions\\POS.AzureFunctions.csproj|solutionrelative:pos.azurefunctions\\middleware\\authenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.application\\features\\itemfeature\\handler\\createitemhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\features\\itemfeature\\handler\\createitemhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED7BD989-6E2E-496F-807A-2C489B6E8C8D}|POS.AzureFunctions\\POS.AzureFunctions.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.azurefunctions\\middleware\\globalexceptionhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED7BD989-6E2E-496F-807A-2C489B6E8C8D}|POS.AzureFunctions\\POS.AzureFunctions.csproj|solutionrelative:pos.azurefunctions\\middleware\\globalexceptionhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED7BD989-6E2E-496F-807A-2C489B6E8C8D}|POS.AzureFunctions\\POS.AzureFunctions.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.azurefunctions\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED7BD989-6E2E-496F-807A-2C489B6E8C8D}|POS.AzureFunctions\\POS.AzureFunctions.csproj|solutionrelative:pos.azurefunctions\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED7BD989-6E2E-496F-807A-2C489B6E8C8D}|POS.AzureFunctions\\POS.AzureFunctions.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.azurefunctions\\middleware\\authenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7BD989-6E2E-496F-807A-2C489B6E8C8D}|POS.AzureFunctions\\POS.AzureFunctions.csproj|solutionrelative:pos.azurefunctions\\middleware\\authenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB8D86B0-AA3F-4988-8465-FA30B1804A9F}|POS.API\\POS.API.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB8D86B0-AA3F-4988-8465-FA30B1804A9F}|POS.API\\POS.API.csproj|solutionrelative:pos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7BD989-6E2E-496F-807A-2C489B6E8C8D}|POS.AzureFunctions\\POS.AzureFunctions.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.azurefunctions\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED7BD989-6E2E-496F-807A-2C489B6E8C8D}|POS.AzureFunctions\\POS.AzureFunctions.csproj|solutionrelative:pos.azurefunctions\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7BD989-6E2E-496F-807A-2C489B6E8C8D}|POS.AzureFunctions\\POS.AzureFunctions.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.azurefunctions\\httptriggers\\createitemhttptrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7BD989-6E2E-496F-807A-2C489B6E8C8D}|POS.AzureFunctions\\POS.AzureFunctions.csproj|solutionrelative:pos.azurefunctions\\httptriggers\\createitemhttptrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7BD989-6E2E-496F-807A-2C489B6E8C8D}|POS.AzureFunctions\\POS.AzureFunctions.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.azurefunctions\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED7BD989-6E2E-496F-807A-2C489B6E8C8D}|POS.AzureFunctions\\POS.AzureFunctions.csproj|solutionrelative:pos.azurefunctions\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7BD989-6E2E-496F-807A-2C489B6E8C8D}|POS.AzureFunctions\\POS.AzureFunctions.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.azurefunctions\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7BD989-6E2E-496F-807A-2C489B6E8C8D}|POS.AzureFunctions\\POS.AzureFunctions.csproj|solutionrelative:pos.azurefunctions\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4AC207F-3FF9-4567-AE7A-06EFE55853D8}|POS.Application\\POS.Application.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.application\\pos.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -55,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{EB8D86B0-AA3F-4988-8465-FA30B1804A9F}|POS.API\\POS.API.csproj|solutionrelative:pos.api\\pos.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED7BD989-6E2E-496F-807A-2C489B6E8C8D}|POS.AzureFunctions\\POS.AzureFunctions.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.azurefunctions\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{ED7BD989-6E2E-496F-807A-2C489B6E8C8D}|POS.AzureFunctions\\POS.AzureFunctions.csproj|solutionrelative:pos.azurefunctions\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ED7BD989-6E2E-496F-807A-2C489B6E8C8D}|POS.AzureFunctions\\POS.AzureFunctions.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.azurefunctions\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{ED7BD989-6E2E-496F-807A-2C489B6E8C8D}|POS.AzureFunctions\\POS.AzureFunctions.csproj|solutionrelative:pos.azurefunctions\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -73,6 +69,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{EB8D86B0-AA3F-4988-8465-FA30B1804A9F}|POS.API\\POS.API.csproj|c:\\users\\sys.admin\\source\\repos\\api_assingment_pos\\pos.api\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB8D86B0-AA3F-4988-8465-FA30B1804A9F}|POS.API\\POS.API.csproj|solutionrelative:pos.api\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.AzureFunctions\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:POS.AzureFunctions\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,33 +98,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "serviceDependencies.json",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.AzureFunctions\\Properties\\serviceDependencies.json",
-              "RelativeDocumentMoniker": "POS.AzureFunctions\\Properties\\serviceDependencies.json",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.AzureFunctions\\Properties\\serviceDependencies.json",
-              "RelativeToolTip": "POS.AzureFunctions\\Properties\\serviceDependencies.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-11T16:12:48.48Z",
+              "DocumentIndex": 0,
+              "Title": "CreateItemHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\Features\\ItemFeature\\Handler\\CreateItemHandler.cs",
+              "RelativeDocumentMoniker": "POS.Application\\Features\\ItemFeature\\Handler\\CreateItemHandler.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\Features\\ItemFeature\\Handler\\CreateItemHandler.cs",
+              "RelativeToolTip": "POS.Application\\Features\\ItemFeature\\Handler\\CreateItemHandler.cs",
+              "ViewState": "AgIAABIAAABAZmZmZmYtwBgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T16:26:20.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.AzureFunctions\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "POS.AzureFunctions\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.AzureFunctions\\Properties\\launchSettings.json",
-              "RelativeToolTip": "POS.AzureFunctions\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-11T16:12:45.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "CreateItemHTTPTrigger.cs",
               "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.AzureFunctions\\HTTPTriggers\\CreateItemHTTPTrigger.cs",
               "RelativeDocumentMoniker": "POS.AzureFunctions\\HTTPTriggers\\CreateItemHTTPTrigger.cs",
@@ -137,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.AzureFunctions\\Startup.cs",
               "RelativeDocumentMoniker": "POS.AzureFunctions\\Startup.cs",
@@ -150,52 +137,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "POS.AzureFunctions",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.AzureFunctions\\POS.AzureFunctions.csproj",
-              "RelativeDocumentMoniker": "POS.AzureFunctions\\POS.AzureFunctions.csproj",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.AzureFunctions\\POS.AzureFunctions.csproj",
-              "RelativeToolTip": "POS.AzureFunctions\\POS.AzureFunctions.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-11T15:00:09.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GlobalExceptionHandling.cs",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.AzureFunctions\\MiddleWare\\GlobalExceptionHandling.cs",
-              "RelativeDocumentMoniker": "POS.AzureFunctions\\MiddleWare\\GlobalExceptionHandling.cs",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.AzureFunctions\\MiddleWare\\GlobalExceptionHandling.cs",
-              "RelativeToolTip": "POS.AzureFunctions\\MiddleWare\\GlobalExceptionHandling.cs",
-              "ViewState": "AgIAABsAAACAMzMzMzMRwAsAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.API\\Program.cs",
+              "RelativeDocumentMoniker": "POS.API\\Program.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.API\\Program.cs",
+              "RelativeToolTip": "POS.API\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAvwDUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T15:10:07.261Z",
+              "WhenOpened": "2025-01-11T15:54:39.31Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "AuthenticationMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.AzureFunctions\\MiddleWare\\AuthenticationMiddleware.cs",
               "RelativeDocumentMoniker": "POS.AzureFunctions\\MiddleWare\\AuthenticationMiddleware.cs",
               "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.AzureFunctions\\MiddleWare\\AuthenticationMiddleware.cs",
               "RelativeToolTip": "POS.AzureFunctions\\MiddleWare\\AuthenticationMiddleware.cs",
-              "ViewState": "AgIAADYAAACAZ2ZmZuYSwAgAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAjwBgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T14:22:35.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalExceptionHandling.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.AzureFunctions\\MiddleWare\\GlobalExceptionHandling.cs",
+              "RelativeDocumentMoniker": "POS.AzureFunctions\\MiddleWare\\GlobalExceptionHandling.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.AzureFunctions\\MiddleWare\\GlobalExceptionHandling.cs",
+              "RelativeToolTip": "POS.AzureFunctions\\MiddleWare\\GlobalExceptionHandling.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAArwCAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T15:10:07.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.AzureFunctions\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "POS.AzureFunctions\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.AzureFunctions\\Properties\\launchSettings.json",
+              "RelativeToolTip": "POS.AzureFunctions\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-11T16:12:45.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.AzureFunctions\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "POS.AzureFunctions\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.AzureFunctions\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "POS.AzureFunctions\\Properties\\serviceDependencies.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-11T16:12:48.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "POS.Persistance",
+              "Title": "POS.Persistance.csproj",
               "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Persistance\\POS.Persistance.csproj",
               "RelativeDocumentMoniker": "POS.Persistance\\POS.Persistance.csproj",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Persistance\\POS.Persistance.csproj",
-              "RelativeToolTip": "POS.Persistance\\POS.Persistance.csproj",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Persistance\\POS.Persistance.csproj*",
+              "RelativeToolTip": "POS.Persistance\\POS.Persistance.csproj*",
+              "ViewState": "AgIAAAUAAAAAAAAAACBzwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-01-11T15:10:16.791Z",
               "EditorCaption": ""
@@ -203,12 +216,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "POS.API",
+              "Title": "POS.API.csproj",
               "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.API\\POS.API.csproj",
               "RelativeDocumentMoniker": "POS.API\\POS.API.csproj",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.API\\POS.API.csproj",
-              "RelativeToolTip": "POS.API\\POS.API.csproj",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.API\\POS.API.csproj*",
+              "RelativeToolTip": "POS.API\\POS.API.csproj*",
+              "ViewState": "AgIAAAMAAAAAAAAAACBzwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-01-11T15:10:11.767Z",
               "EditorCaption": ""
@@ -216,12 +229,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "POS.Application",
+              "Title": "POS.Application.csproj",
               "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\POS.Application.csproj",
               "RelativeDocumentMoniker": "POS.Application\\POS.Application.csproj",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\POS.Application.csproj",
-              "RelativeToolTip": "POS.Application\\POS.Application.csproj",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Application\\POS.Application.csproj*",
+              "RelativeToolTip": "POS.Application\\POS.Application.csproj*",
+              "ViewState": "AgIAAAsAAAAAAAAAACBzwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-01-11T15:10:12.976Z",
               "EditorCaption": ""
@@ -229,97 +242,82 @@
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "POS.Domain",
+              "Title": "POS.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Domain\\POS.Domain.csproj",
               "RelativeDocumentMoniker": "POS.Domain\\POS.Domain.csproj",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Domain\\POS.Domain.csproj",
-              "RelativeToolTip": "POS.Domain\\POS.Domain.csproj",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Domain\\POS.Domain.csproj*",
+              "RelativeToolTip": "POS.Domain\\POS.Domain.csproj*",
+              "ViewState": "AgIAAAUAAAAAAAAAACBzwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-01-11T15:10:14.047Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.API\\Program.cs",
-              "RelativeDocumentMoniker": "POS.API\\Program.cs",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.API\\Program.cs",
-              "RelativeToolTip": "POS.API\\Program.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAIwDUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T15:54:39.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "POS.Infrastructure",
+              "Title": "POS.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Infrastructure\\POS.Infrastructure.csproj",
               "RelativeDocumentMoniker": "POS.Infrastructure\\POS.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Infrastructure\\POS.Infrastructure.csproj",
-              "RelativeToolTip": "POS.Infrastructure\\POS.Infrastructure.csproj",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.Infrastructure\\POS.Infrastructure.csproj*",
+              "RelativeToolTip": "POS.Infrastructure\\POS.Infrastructure.csproj*",
+              "ViewState": "AgIAAAUAAAAAAAAAACBzwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-01-11T15:10:15.065Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "local.settings.json",
               "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.AzureFunctions\\local.settings.json",
               "RelativeDocumentMoniker": "POS.AzureFunctions\\local.settings.json",
               "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.AzureFunctions\\local.settings.json",
               "RelativeToolTip": "POS.AzureFunctions\\local.settings.json",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-11T15:10:10.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T15:10:10.51Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "host.json",
               "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.AzureFunctions\\host.json",
               "RelativeDocumentMoniker": "POS.AzureFunctions\\host.json",
               "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.AzureFunctions\\host.json",
               "RelativeToolTip": "POS.AzureFunctions\\host.json",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwAIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-01-11T15:10:08.658Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.API\\appsettings.json",
               "RelativeDocumentMoniker": "POS.API\\appsettings.json",
               "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.API\\appsettings.json",
               "RelativeToolTip": "POS.API\\appsettings.json",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-01-11T15:10:05.557Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "POS.API\\appsettings.Development.json",
               "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.API\\appsettings.Development.json",
               "RelativeToolTip": "POS.API\\appsettings.Development.json",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-01-11T15:10:02.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "ItemController.cs",
               "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\API_Assingment_POS\\POS.API\\Controllers\\ItemController.cs",
               "RelativeDocumentMoniker": "POS.API\\Controllers\\ItemController.cs",

@@ -14,7 +14,8 @@ namespace POS.Application.Features.ItemFeature.Handler
     public class CreateItemHandler : IRequestHandler<CreateItemCommand, Guid>
     {
         public IItemsRepository _itemsRepository;
-        public CreateItemHandler(IItemsRepository itemsRepository) {
+        public CreateItemHandler(IItemsRepository itemsRepository)
+        {
             _itemsRepository = itemsRepository;
         }
         public Task<Guid> Handle(CreateItemCommand request, CancellationToken cancellationToken)
